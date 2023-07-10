@@ -168,9 +168,9 @@ footer {
   line-height: 30px;
   margin: 24px 0px 32px 0px;
 }
-.footer-copputight{
-    color: rgba(255, 255, 255, 0.40);
-font-size: 16px;
-font-weight: 400;
+.footer-copputight {
+  color: rgba(255, 255, 255, 0.4);
+  font-size: 16px;
+  font-weight: 400;
 }
 /* footer sectin ends */
