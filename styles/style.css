@@ -3,11 +3,48 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: "Lato", sans-serif;
 }
 
+/* Banner section Start */
 
+.banner-container {
+  display: flex;
+  background: rgba(229, 84, 115, 0.1);
+  padding: 50px 240px 0px 240px;
+  justify-content: space-between;
+  align-items: center;
+}
 
+.banner-heading {
+  width: 708px;
+  color: #272727;
+  font-size: 80px;
+  font-weight: 700;
+}
 
-/* Banner section  */
+.banner-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  line-height: 30px;
+  display: flex;
+  width: 634px;
+  margin: 32px 0px;
+}
 
+.banner-button {
+  padding: 20px 43px;
+  border-radius: 8px;
+  background: #e55473;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border: none;
+}
 
+.banner-image {
+  width: 635px;
+  height: 800px;
+}
+
+/* Banner section ends */
