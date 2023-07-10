@@ -48,6 +48,7 @@
 }
 
 /* Banner section ends */
+
 .instagram-section {
   margin: 128px 240px;
 }
@@ -84,5 +85,54 @@
 /* Insta section end */
 
 /* deals section starts here  */
+
+.deals-container {
+  background-image: url(../Flower-Asset/Rectangle\ 9.png);
+  width: 1440px;
+  height: 449px;
+  margin: auto;
+  border-radius: 8px;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.deals-headding {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.deals-descriptions {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  line-height: 30px;
+  margin: 16px 0px 48px 0px;
+}
+
+#input-email {
+  width: 700px;
+  border-radius: 8px;
+  background: #fff;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 16px;
+  padding: 23px 0px 22px 22px;
+  border: none;
+}
+
+.deals-button {
+    width: 150px;
+height: 64px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+border: 0;
+margin: 16px;
+}
 
 /* deals section ends here  */
