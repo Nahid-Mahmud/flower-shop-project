@@ -111,6 +111,20 @@
 .featured-flowers-images-3 {
   padding: 0 75px;
 }
+
+.flower-tree-name {
+  display: flex;
+  margin-top: 32px;
+  justify-content: space-around;
+}
+.flower-tree-name p {
+  color: #272727;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 35px;
+  
+  border-bottom: 2px solid black;
+}
 /* Featured flowers section ends */
 
 /* hot deals section starts */
