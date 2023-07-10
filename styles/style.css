@@ -294,6 +294,15 @@
 
 /* letest deals section ends here  */
 
+/* todays special section  starts*/
+
+.todays-special-item-image{
+  height: 400px;
+  width: 300px;
+}
+
+/* Todays special secton ends */
+
 /* footer sectin starts */
 
 footer {
