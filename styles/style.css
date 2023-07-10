@@ -113,6 +113,53 @@
 }
 /* Featured flowers section ends */
 
+/* hot deals section starts */
+
+.hot-deal-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 620px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+}
+.hot-deal-headding {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 700;
+}
+.hot-deal-span {
+  color: #e55473;
+}
+
+.hot-deal-description {
+  width: 594px;
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  line-height: 30px;
+  margin: 24px 0px 32px 0px;
+}
+
+.hot-deal-button {
+  padding: 20px 43px;
+  border-radius: 8px;
+  background: #e55473;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border: none;
+}
+.hot-deal-header-description-container {
+  text-align: center;
+}
+
+.hot-deal-image {
+  width: 318px;
+  height: 420px;
+}
+/* hot deals section ends */
+
 /* insta section starts */
 
 .instagram-section {
