@@ -295,12 +295,67 @@
 /* letest deals section ends here  */
 
 /* todays special section  starts*/
+.todays-special-section {
+  margin: auto;
+  text-align: center;
+  width: 1440px;
+}
+.todays-special {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 600px;
+  margin: auto;
+}
 
-.todays-special-item-image{
+.todays-special-item-image {
   height: 400px;
   width: 300px;
 }
 
+.todays-special-heading {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 24px;
+  margin-top: 120px;
+}
+
+.special-section-hr {
+  width: 300px;
+  margin: auto;
+  height: 2px;
+  background-color: gray;
+}
+
+.todays-special-item-sub-headding {
+  color: rgba(12, 12, 12, 0.6);
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: 700;
+}
+.todays-special-item-price {
+  color: rgba(0, 0, 0, 0.9);
+  font-weight: 700;
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+.todays-special-items-container {
+  border: 1px solid gray;
+  padding: 10px;
+  box-sizing: border-box;
+  box-shadow: 15px 15px 15px lightblue;
+  margin-top: 30px;
+}
+.todays-special-button{
+  padding: 15px;
+  border-radius: 8px;
+  background: #e55473;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border: none;
+}
 /* Todays special secton ends */
 
 /* footer sectin starts */
