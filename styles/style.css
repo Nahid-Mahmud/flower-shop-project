@@ -141,9 +141,36 @@
 
 footer {
   margin-top: 128px;
-  width: 1922px;
   height: 449px;
   background: #111010;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
+.footer-heading {
+  color: #ffffff;
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.footer-flower-span {
+  color: #e55473;
+}
+
+.footer-description {
+  text-align: center;
+  width: 625px;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 24px 0px 32px 0px;
+}
+.footer-copputight{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+}
 /* footer sectin ends */
