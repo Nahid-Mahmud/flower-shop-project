@@ -124,15 +124,26 @@
 }
 
 .deals-button {
-    width: 150px;
-height: 64px;
-border-radius: 8px;
-background: #E55473;
-color: #FFF;
-font-size: 20px;
-font-weight: 700;
-border: 0;
-margin: 16px;
+  width: 150px;
+  height: 64px;
+  border-radius: 8px;
+  background: #e55473;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  border: 0;
+  margin: 16px;
 }
 
 /* deals section ends here  */
+
+/* footer sectin starts */
+
+footer {
+  margin-top: 128px;
+  width: 1922px;
+  height: 449px;
+  background: #111010;
+}
+
+/* footer sectin ends */
