@@ -231,6 +231,8 @@
 
 .instagram-pictures-container {
   display: flex;
+  align-items: center;
+  justify-content: space-around;
   margin-top: 48px;
   gap: 24px;
 }
