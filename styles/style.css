@@ -232,7 +232,6 @@
   margin: auto;
   color: rgba(39, 39, 39, 0.6);
   font-size: 18px;
-  font-weight: 400;
   line-height: 30px;
 }
 
@@ -382,7 +381,7 @@ footer {
 .footer-heading {
   color: #ffffff;
   font-size: 48px;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .footer-flower-span {
@@ -394,13 +393,11 @@ footer {
   width: 625px;
   color: rgba(255, 255, 255, 0.9);
   font-size: 18px;
-  font-weight: 400;
   line-height: 30px;
   margin: 24px 0px 32px 0px;
 }
 .footer-copputight {
   color: rgba(255, 255, 255, 0.4);
   font-size: 16px;
-  font-weight: 400;
 }
 /* footer sectin ends */
