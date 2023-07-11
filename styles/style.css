@@ -6,6 +6,14 @@
   font-family: "Lato", sans-serif;
 }
 
+/* shared css style  */
+.banner-button,
+.deals-button,
+.hot-deal-button,
+.todays-special-button:hover {
+  cursor: pointer;
+}
+
 /* Banner section Start */
 
 .banner-container {
